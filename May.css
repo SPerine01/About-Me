@@ -1,0 +1,49 @@
+body {
+	background: url('https://s3.amazonaws.com/StartupStockPhotos/uploads/9.jpg');
+	background-size: cover;
+	height: 702px;
+	width: 1100px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: 'PT Sans Caption', sans-serif;
+	margin: 0 auto;
+	border: 1px solid black;
+	margin-top: 65px;
+}
+
+.eny:hover {
+	color: gold;
+}
+
+.eny {
+	color: indigo;
+	text-align: center;
+	font-size: 45px;
+	-webkit-transition-property: color, text;
+    -webkit-transition-duration: 1s, 1s;
+    -webkit-transition-timing-function: linear, ease-in;
+}
+
+.rapper {
+	width: 100%;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	text-align: center;
+}
+
+li {
+	display: inline-block;
+}
+
+.BK:hover {
+	color: crimson;
+	}
+
+.BK {
+	color: floralwhite;
+	text-align: center;
+-webkit-transition-property: color, text;
+    -webkit-transition-duration: 1s, 1s;
+    -webkit-transition-timing-function: linear, ease-in;
+}
